@@ -26,7 +26,7 @@ import moa.streams.InstanceStream;
 import moa.tasks.TaskMonitor;
 
 // Exclusively provided as part of submission  of 'An ensemble for classification in multi-class streams 
-// with class-based concept drift' for IJCNN 2019. Not to be used for any other purpose.
+// with class-based concept drift' for ECML 2019. Not to be used for any other purpose.
 
 public class RandomUniformGenerator extends AbstractOptionHandler implements InstanceStream {
 
